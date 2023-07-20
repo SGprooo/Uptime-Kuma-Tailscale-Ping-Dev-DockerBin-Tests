@@ -1,4 +1,4 @@
-# This pull has been merged onto https://github.com/louislam/uptime-kuma/tree/master, dev pull for docker is no longer necessary, a new repository is created [here](Placeholder) (Placeholder) should you find the need to use uptime-kuma with tailscale inside docker.
+# This dockerfile used for [this pull](https://github.com/louislam/uptime-kuma/pull/3178) has been merged to master, dev docker pull for this branch is no longer necessary, a new repository is created [here](Placeholder) (Placeholder) should you find the need to use uptime-kuma with tailscale inside docker.
 
 # Uptime-Kuma with Tailscale Integration Docker Image
 
