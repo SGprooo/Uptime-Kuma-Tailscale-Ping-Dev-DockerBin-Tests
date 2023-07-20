@@ -1,3 +1,5 @@
+# This pull has been merged onto https://github.com/louislam/uptime-kuma/tree/master, dev pull for docker is no longer necessary, a new repository is created [here](Placeholder) (Placeholder) should you find the need to use uptime-kuma with tailscale inside docker.
+
 # Uptime-Kuma with Tailscale Integration Docker Image
 
 This Uptime Kuma Docker image extends `louislam/uptime-kuma:pr-test` by including `Tailscale ping` as a new feature from branch `SGprooo:feature/custom-flags-implementation` image with the Tailscale binary added, currently a preview of the `tailscale ping` monitor type in action.
